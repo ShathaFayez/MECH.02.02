@@ -1,2 +1,2 @@
 # MECH.02.02
-Robotic Eye
+This is my design for the eyes of the robot. The eyes mechanism depends on the upper and lower parts.
